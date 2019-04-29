@@ -1,6 +1,5 @@
 # segmentation-paper-list
 # Segmentation
-https://drive.google.com/drive/u/0/folders/1tfgRRwEoAJidxaZrEz8vQ0jPcct9jdhw
 Collection of online resources about segmentation.
 
 Format: [简称 - 全名 - 刊名 - 时间](paper超链接)[[code](code超连接)]
