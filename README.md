@@ -2,9 +2,6 @@
 # Segmentation
 Collection of online resources about segmentation.
 
-pip3 install http://download.pytorch.org/whl/cu90/torch-0.3.1-cp36-cp36m-linux_x86_64.whl
-pip3 install torchvision
-
 Format: [简称 - 全名 - 刊名 - 时间](paper超链接)[[code](code超连接)]
 
 ## Datasets
